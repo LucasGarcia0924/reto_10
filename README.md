@@ -1,5 +1,7 @@
 # Reto_10
 Evidencia del cumplimiento de las actividades propuestas en el reto ya mencionado.
+***
+![logo](https://camo.githubusercontent.com/a12903c4e2f58575622e5cc1222df41a66748bec5311fb8b769d680428dbb9ff/68747470733a2f2f692e6962622e636f2f767652785072622f412d616469722d756e2d742d74756c6f2e706e67)
 ## Punto 1
 Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 ```python
